@@ -14,5 +14,13 @@
         "batch": 6,
         "expiry": "2027-11-03",
         "note": ""
+    },
+    {
+        "name": "home",
+        "mid": "FB-AUTO-0000-USER",
+        "days": 365,
+        "batch": 10,
+        "expiry": "2027-11-03",
+        "note": ""
     }
 ]
