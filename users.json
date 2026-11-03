@@ -22,13 +22,5 @@
         "batch": 3,
         "expiry": "2026-11-05",
         "note": ""
-    },
-    {
-        "name": "lal",
-        "mid": "F1B9-F8ED-E858-8004",
-        "days": 2,
-        "batch": 3,
-        "expiry": "2026-11-05",
-        "note": ""
     }
 ]
