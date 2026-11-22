@@ -46,5 +46,13 @@
         "batch": 3,
         "expiry": "2026-11-06",
         "note": ""
+    },
+    {
+        "name": "home",
+        "mid": "90FD-D212-89AC-E31E",
+        "days": 365,
+        "batch": 9,
+        "expiry": "2027-11-22",
+        "note": ""
     }
 ]
