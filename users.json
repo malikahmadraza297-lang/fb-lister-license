@@ -54,5 +54,13 @@
         "batch": 10,
         "expiry": "2027-02-20",
         "note": ""
+    },
+    {
+        "name": "home",
+        "mid": "818A-504E-ABCC-BE05",
+        "days": 120,
+        "batch": 10,
+        "expiry": "2027-03-22",
+        "note": ""
     }
 ]
