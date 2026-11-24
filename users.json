@@ -38,5 +38,13 @@
         "batch": 10,
         "expiry": "2027-03-22",
         "note": ""
+    },
+    {
+        "name": "hom",
+        "mid": "DA49-906E-EEBE-F7A9",
+        "days": 90,
+        "batch": 10,
+        "expiry": "2027-02-22",
+        "note": ""
     }
 ]
