@@ -46,5 +46,13 @@
         "batch": 10,
         "expiry": "2027-02-22",
         "note": ""
+    },
+    {
+        "name": "Ali",
+        "mid": "506F-814A-ABBC-3BB5",
+        "days": 2,
+        "batch": 6,
+        "expiry": "2026-11-27",
+        "note": ""
     }
 ]
