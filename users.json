@@ -54,5 +54,13 @@
         "batch": 6,
         "expiry": "2026-11-27",
         "note": ""
+    },
+    {
+        "name": "Haseeb",
+        "mid": "8EA6-3FE5-B171-57AD",
+        "days": 2,
+        "batch": 6,
+        "expiry": "2026-11-27",
+        "note": ""
     }
 ]
